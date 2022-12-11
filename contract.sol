@@ -1,4 +1,4 @@
-pragma solidity ^0.4.21;
+pragma solidity ^0.8.7;
 
 contract P2PLending {
     struct Loan {
